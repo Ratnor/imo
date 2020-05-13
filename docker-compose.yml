@@ -24,7 +24,7 @@ services:
     image: wordpress:5.1.1-php7.3-apache
 
     ports:
-      - "9210:80"
+      - "8000:80"
 
     restart: always
 
