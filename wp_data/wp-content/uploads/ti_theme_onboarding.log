@@ -1,0 +1,15 @@
+[21/May/2020:18:48:13] (ℹ️): WordPress Instance Info:
+[21/May/2020:18:48:13] (ℹ️): Home URL : http://localhost:8080
+[21/May/2020:18:48:13] (ℹ️): Site URL : http://localhost:8080
+[21/May/2020:18:48:13] (ℹ️): WordPress Version : 5.4.1
+[21/May/2020:18:48:13] (ℹ️): Onboarding Version : 1.0.0
+[21/May/2020:18:48:13] (ℹ️): Multisite : No
+[21/May/2020:18:48:13] (ℹ️): Server Info : Apache/2.4.38 (Debian)
+[21/May/2020:18:48:13] (ℹ️): PHP Version : 7.3.18
+[21/May/2020:18:48:13] (ℹ️): HTTPS : No
+[21/May/2020:18:48:13] (ℹ️): PHP Max Execution Time : 600
+[21/May/2020:18:48:13] (ℹ️): PHP Max Input Vars : 1000
+[21/May/2020:18:48:13] (ℹ️): Max Upload Size : 67108864
+[21/May/2020:18:48:13] (ℹ️): Plugins:
+[21/May/2020:18:48:13] (ℹ️): [PLUGIN] Insert Headers and Footers : v1.4.5 (WPBeginner)
+[21/May/2020:18:48:13] (ℹ️): [PLUGIN] Profile Builder : v3.1.7 (Cozmoslabs)
